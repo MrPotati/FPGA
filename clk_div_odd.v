@@ -58,7 +58,7 @@ always@(posedge clk_in)
 //Sets B to high for one clock cycle after counter is (N+1)/2
 always@(posedge clk_in)
 	begin
-		if(count == 4'b0101)	//Use (N+1)/2. Ex: (5+1)/2 = 3		
+		if(count == 4'b0011)	//Use (N+1)/2. Ex: (5+1)/2 = 3		
 			B1 <= 1;
 		else
 			B1 <= 0;
