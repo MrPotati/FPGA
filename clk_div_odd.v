@@ -2,7 +2,7 @@
 // Name:   		clk_div_odd.v
 //
 // Author: 		Sergio PL                                                                 
-//         		http://github.com/MrPotati/      http://idielectronica.blogspot.com/                                              
+//         		http://github.com/sphanlung/      http://idielectronica.blogspot.com/                                              
 //
 // Device: 		FPGA, CPLD                 
 //
